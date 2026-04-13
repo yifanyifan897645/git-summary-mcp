@@ -126,11 +126,8 @@ AI coding assistants can read files and run commands, but they don't inherently 
 - [mcp-checkup](https://www.npmjs.com/package/mcp-checkup) — MCP setup health analyzer
 - [dev-utils-mcp](https://www.npmjs.com/package/dev-utils-mcp) — Developer utilities
 - [codescan-mcp](https://www.npmjs.com/package/codescan-mcp) — Codebase health scanner
+- [deadlink-checker-mcp](https://www.npmjs.com/package/deadlink-checker-mcp) — Dead link detector
 
 ## License
 
 MIT
-
----
-
-**Want to build your own MCP server?** Check out our [MCP Server Development Kit](https://ifdian.net/item/fdfddfb02c1311f1ae625254001e7c00) — includes TypeScript templates, market research, niche analysis, and monetization strategies.
