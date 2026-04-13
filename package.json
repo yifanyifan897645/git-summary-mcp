@@ -1,6 +1,6 @@
 {
   "name": "git-summary-mcp",
-  "version": "0.1.3",
+  "version": "0.1.8",
   "mcpName": "io.github.yifanyifan897645/git-summary",
   "description": "MCP server for local Git repository intelligence — commit summaries, changelogs, blame analysis, branch health, and semantic diffs",
   "main": "dist/index.js",
